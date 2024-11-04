@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! Eu sou o Pedro Ribeiro 💻
 
-<!--
-**pedroh430/pedroh430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ribeiro-85aba2319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BxHl9dUsRpexSP94lMpZcA%3D%3D)
+[![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohnrii?igsh=dXZubWdiemd5cmsw)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroh430&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia!
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="python" scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="django" scr="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
